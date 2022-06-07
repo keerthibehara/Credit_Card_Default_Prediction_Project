@@ -1,6 +1,6 @@
 # Credit Card Default Prediction
 <p align="center"> 
-  <img src="![image](https://user-images.githubusercontent.com/99960098/172370131-40dc47b2-8d80-4ed5-a455-07b4e5fb46f8.png)" alt="Email Logo.png" width="80px" height="80px">
+  <img src="(https://user-images.githubusercontent.com/99960098/172370131-40dc47b2-8d80-4ed5-a455-07b4e5fb46f8.png)" alt="Email Logo.png" width="80px" height="80px">
 </p>
 ## Overview
 This project is aimed at predicting the case of customers default payments in Taiwan.
