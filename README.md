@@ -1,6 +1,6 @@
 # Credit Card Default Prediction
 <p align="center"> 
-  <img src="Desktop/[1_uZyt9Z189siaNsAlIDtjEg].png"
+  <img src="Desktop/1_uZyt9Z189siaNsAlIDtjEg.jpeg"
 " alt="im" width="80px" height="80px">
 </p>
 ## Overview
