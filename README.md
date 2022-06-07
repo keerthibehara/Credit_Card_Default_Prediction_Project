@@ -1,4 +1,5 @@
-# Credit_Card_Default_Prediction_Project
+# Credit Card Default Prediction
+#Overview
 This project is aimed at predicting the case of customers default payments in Taiwan.
 From the perspective of risk management, the result of predictive accuracy of the
 estimated probability of default will be more valuable than the binary result of
