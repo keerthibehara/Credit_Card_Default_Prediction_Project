@@ -1,12 +1,6 @@
 # Credit Card Default Prediction
-![image](https://user-images.githubusercontent.com/99960098/172368619-840e1555-c69f-4196-810b-ef2ac06553d4.png)  
-<p align="center">
-  <img 
-    width="300"
-    height="300"
-    src=(https://user-images.githubusercontent.com/99960098/172368619-840e1555-c69f-4196-810b-ef2ac06553d4.png) 
-  >
-</p>
+<p ![image](https://user-images.githubusercontent.com/99960098/172368619-840e1555-c69f-4196-810b-ef2ac06553d4.png)  align='centre>
+
 ## Overview
 This project is aimed at predicting the case of customers default payments in Taiwan.
 From the perspective of risk management, the result of predictive accuracy of the
