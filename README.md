@@ -36,5 +36,6 @@ The measurement scale for the repayment status is:
 This is a binary classification problem where the target variable is whether or not a client will default on their payment (Yes = 1, No = 0). After cleaning the data, handling class imbalance using SMOTE and feature engineering, several baseline models were fit to the training data. Baselines included Logistic Regression, Random Forest Classifier, XGBoost Classifier, Gradient Boost Classifier, K Nearest Neighbors, Support Vector Machines, Naïve Bayes Classifier and Decision Tree Classifier. Each model iteration's hyperparameters were tuned with GridSearchCV and RandomSearchCV. Predictions were evaluated using the ROC_AUC Score.
 
 The final XG Boost model achieved an ROC_AUC score of 0.867.
+  
   ![image](https://user-images.githubusercontent.com/99960098/172368442-06afb068-1c7c-4713-be11-0965128a81f6.png)
 
