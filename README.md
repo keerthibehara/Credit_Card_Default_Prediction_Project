@@ -7,8 +7,7 @@ From the perspective of risk management, the result of predictive accuracy of th
 estimated probability of default will be more valuable than the binary result of
 classification - credible or not credible clients. The main objective is to build a
 predictive model, which could help them in predicting the customers who might
-default in upcoming months.From the perspective of risk management, understanding the customer characteristics that lead to this outcome can aid creditors in deciding reasonable credit limits to prevent this.
-
+default in upcoming months.
 Credit card default happens when you have become severely delinquent on your
 credit card payments. Missing credit card payments once or twice does not count as
 a default. A payment default occurs when you fail to pay the Minimum Amount Due
